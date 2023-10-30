@@ -12,7 +12,7 @@ Customizable themes and styles.<br>
 
 <h3>Installation</h3>
 Clone this repository to your local machine:
-bash
-Copy code
+bash<br>
+Copy code<br>
 git clone https://github.com/Priyanka-2808/Media-Player.git
 Open the project folder in your code editor.
