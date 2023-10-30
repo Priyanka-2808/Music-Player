@@ -14,5 +14,5 @@ Customizable themes and styles.<br>
 Clone this repository to your local machine:
 bash<br>
 Copy code<br>
-git clone https://github.com/Priyanka-2808/Media-Player.git
+git clone https://github.com/Priyanka-2808/Media-Player.git<br>
 Open the project folder in your code editor.
