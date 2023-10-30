@@ -3,7 +3,7 @@
 <h3>Introduction</h3>
 Welcome to the Media Player Website! This web application is designed to provide a simple and intuitive way to play and manage your media files, including audio and video, using HTML, CSS, and JavaScript. Whether you want to enjoy your favorite songs, watch videos, or create playlists, this website has you covered.
 
-Features
+<h3>Features</h3>
 Play both audio files.
 Create and manage playlists.
 Control playback with play, pause, stop, volume adjustment, and seek bar.
